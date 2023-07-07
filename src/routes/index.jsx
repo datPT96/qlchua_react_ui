@@ -11,12 +11,12 @@ import HomePage from '~/component/Home/components/HomePage';
 
 const routes = [
     {
-        path: '/',
+        path: '/qlchua_react_ui',
         element: <HomePage />,
         // errorElement: <PageNotFound />,
     },
     {
-        path: '/admin',
+        path: '/qlchua_react_ui/admin',
         element: (
             <DefaultAdminLayuout>
                 <Admin />
@@ -39,12 +39,12 @@ const routes = [
         ],
     },
     {
-        path: '/login',
+        path: '/qlchua_react_ui/login',
         element: <LoginPage />,
         // layout: null,
     },
     {
-        path: '/register',
+        path: '/qlchua_react_ui/register',
         element: <RegisterPage />,
         // layout: RegisterLayout,
     },
