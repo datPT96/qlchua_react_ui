@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/qlchua_react_ui/static/css/main.a9c71256.css",
-    "main.js": "/qlchua_react_ui/static/js/main.918d8b09.js",
+    "main.js": "/qlchua_react_ui/static/js/main.df4400c1.js",
     "static/js/787.e25acf1d.chunk.js": "/qlchua_react_ui/static/js/787.e25acf1d.chunk.js",
     "index.html": "/qlchua_react_ui/index.html",
     "main.a9c71256.css.map": "/qlchua_react_ui/static/css/main.a9c71256.css.map",
-    "main.918d8b09.js.map": "/qlchua_react_ui/static/js/main.918d8b09.js.map",
+    "main.df4400c1.js.map": "/qlchua_react_ui/static/js/main.df4400c1.js.map",
     "787.e25acf1d.chunk.js.map": "/qlchua_react_ui/static/js/787.e25acf1d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a9c71256.css",
-    "static/js/main.918d8b09.js"
+    "static/js/main.df4400c1.js"
   ]
 }
